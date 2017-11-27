@@ -18,6 +18,15 @@ Haz un sketch del dashboard de Laboratoria.
 * Ten en cuenta los elementos de navegación en tus sketches.
 * Utiliza títulos y textos reales.
 
-# sketch
+# Sketch de labotarotia
 
+![Sin titulo](assets/images/sketch1.jpg)
+
+![Sin titulo](assets/images/sketch2.jpg)
+
+
+# Dashboard de Laboratoria
+![Sin titulo](assets/images/dashboard1.jpg)
+
+![Sin titulo](assets/images/dashboard2.jpg)
 
